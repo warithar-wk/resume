@@ -1,1 +1,1 @@
-# [Warithar Resume](https://graph31.github.io/resume/)
+# [Warithar Resume](https://warithar-wk.github.io/resume/)
